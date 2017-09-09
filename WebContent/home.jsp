@@ -36,12 +36,17 @@
 <title>${currentPres.fName} ${currentPres.lName}</title>
 </head>
 <body>
+<div id="sweetEagle">
+<img src="https://i.pinimg.com/736x/34/f5/fd/34f5fd03df34a42f2edbeab5a10ed98c--flag-tattoos-american-eagle-tattoo.jpg">
+</div>
+
+<div class="main">
 <h1>${currentPres.fName} ${currentPres.lName}</h1>
 <h3>${currentPres.party}</h3>
 <h4> ${currentPres.startYear} -  ${currentPres.endYear}</h4>
 
 <form action = "gotopres.do" method="POST">
-	Enter President Number: <input type="number" name ="Number" min=1 max=${numPres}>
+	Enter President Number: <input id="number" type="number" name ="Number" min=1 max=${numPres}>
 	<input type="submit" name="submit" value="Submit">
 </form>
 <form action="grabapres.do" method="POST">
@@ -50,14 +55,7 @@
 
 <input id="nextButton" type="submit" name="next" value="Next">
 </form>
-
-
-	<%-- <form action="pres.do" method="GET">
-	
-		<c:forEach var="presidents" items="${presidents}">
-			       ${presidents.termNum}: ${presidents.fName} ${presidents.midName} ${presidents.lName} ${presidents.startYear} ${presidents.endYear} ${presidents.party}<br/>
-		</c:forEach>
-		</form> --%>
+</div>
 		
 </body>
 </html>
