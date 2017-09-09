@@ -25,10 +25,23 @@ public class PresServlet extends HttpServlet {
 
 	@Override
 	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-		String next =req.getParameter("Next");
-		
+		String next =req.getParameter("next");
+		String submit = req.getParameter("submit");
+		int num = 1;
+		if(req.getParameter("Number") != null) {
+			num = Integer.parseInt(req.getParameter("Number"));
+		}
+		if(next != null && next.equals("Next")) {
 		if (presNum <= presidentDAO.getPresList().size() - 2) {
 			presNum++;
+		}
+		}
+		if(next != null && next.equals("Previous"))
+		if (presNum != 0) {
+			presNum--;
+		}
+		if(submit != null && submit.equals("Submit")) {
+			presNum = num - 1;
 		}
 		req.setAttribute("currentPres", presidentDAO.getPresList().get(presNum));
 		req.setAttribute("numPres", presidentDAO.getPresList().size());

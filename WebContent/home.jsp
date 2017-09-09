@@ -19,6 +19,18 @@
 		}
 	</c:otherwise>
 </c:choose>
+<c:choose>
+	<c:when test="${currentPres.termNum == 1}">
+		#previousButton {
+			display: none;
+		}
+	</c:when>
+	<c:otherwise>
+		#previousButton{
+			display: block;
+		}
+	</c:otherwise>
+</c:choose>
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>${currentPres.fName} ${currentPres.lName}</title>
@@ -28,8 +40,13 @@
 <h3>${currentPres.party}</h3>
 <h4> ${currentPres.startYear} -  ${currentPres.endYear}</h4>
 
-
+<form action = "gotopres.do" method="POST">
+	Enter President Number: <input type="number" name ="Number" min=1 max=${numPres}>
+	<input type="submit" name="submit" value="Submit">
+</form>
 <form action="grabapres.do" method="POST">
+
+<input id="previousButton" type="submit" name="next" value="Previous">
 
 <input id="nextButton" type="submit" name="next" value="Next">
 </form>
