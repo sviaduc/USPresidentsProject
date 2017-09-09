@@ -32,7 +32,7 @@ public class PresServlet extends HttpServlet {
 			num = Integer.parseInt(req.getParameter("Number"));
 		}
 		if(next != null && next.equals("Next")) {
-		if (presNum <= presidentDAO.getPresList().size() - 2) {
+		if (presNum <= presidentDAO.getPresList().size() - 1) {
 			presNum++;
 		}
 		}

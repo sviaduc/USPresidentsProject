@@ -33,21 +33,21 @@
 </c:choose>
 </style>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>${currentPres.fName} ${currentPres.lName}</title>
+<title>${currentPres.fName} ${currentPres.midName} ${currentPres.lName}</title>
 </head>
 <body>
 <div id="sweetEagle">
 <img src="https://i.pinimg.com/736x/34/f5/fd/34f5fd03df34a42f2edbeab5a10ed98c--flag-tattoos-american-eagle-tattoo.jpg">
 </div>
-
+<br><br><br><br><br><br>
 <div class="main">
-<h1>${currentPres.fName} ${currentPres.lName}</h1>
-<img src="${currentPres.image }" />
+<h1>${currentPres.fName} ${currentPres.midName} ${currentPres.lName}</h1>
+<img class="presImage" src="${currentPres.image }" />
 <h3>${currentPres.party}</h3>
 <h4> ${currentPres.startYear} -  ${currentPres.endYear}</h4>
 
 <form action = "gotopres.do" method="POST">
-	Enter President Number: <input id="number" type="number" name ="Number" min=1 max=${numPres}>
+	Enter President Number: <input id="number" type="number" name ="Number" min=1 max="${numPres}">
 	<input type="submit" name="submit" value="Submit">
 </form>
 <form action="grabapres.do" method="POST">
