@@ -1,8 +1,15 @@
 package com.sd.data;
 
+import java.time.LocalDate;
+
 public class President {
-	private String termNum, startYear, endYear;
-	private String fName, midName, lName, party;
+	private String termNum;
+	private String startYear;
+	private String endYear;
+	private String fName;
+	private String midName;
+	private String lName;
+	private String party;
 
 	public President() {
 	}
