@@ -10,12 +10,14 @@ public class President {
 	private String midName;
 	private String lName;
 	private String party;
+	private String image;
+	private String fact;
 
 	public President() {
 	}
 
 	public President(String termNum, String startYear, String endYear, String fName, String midName, String lName,
-			String party) {
+			String party, String image, String fact) {
 		super();
 		this.termNum = termNum;
 		this.startYear = startYear;
@@ -24,7 +26,10 @@ public class President {
 		this.midName = midName;
 		this.lName = lName;
 		this.party = party;
+		this.image = image;
+		this.fact = fact;
 	}
+
 
 	public String getTermNum() {
 		return termNum;
@@ -80,6 +85,22 @@ public class President {
 
 	public void setParty(String party) {
 		this.party = party;
+	}
+
+	public String getImage() {
+		return image;
+	}
+
+	public void setImage(String image) {
+		this.image = image;
+	}
+
+	public String getFact() {
+		return fact;
+	}
+
+	public void setFact(String fact) {
+		this.fact = fact;
 	}
 
 	@Override

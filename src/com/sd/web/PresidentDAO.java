@@ -13,5 +13,7 @@ public interface PresidentDAO {
 	public String getMidName(President p);
 	public String getLName(President p);
 	public String getParty(President p);
+	public String getImage(President p);
+	public String getFact(President p);
 	public List<President> getPresList();
 }

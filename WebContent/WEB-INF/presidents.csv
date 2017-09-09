@@ -1,44 +1,45 @@
-1, George, , Washington, 1789, 1797, Independent
-2, John, , Adams, 1797, 1801, Federalist
-3, Thomas, , Jefferson, 1801, 1809, Democratic, Republican
-4, James, , Madison, 1809, 1817, Democratic, Republican
-5, James, , Monroe, 1817, 1825, Democratic, Republican
-6, John, Quincy, Adams, 1825, 1829, Democratic, Republican
-7, Andrew, , Jackson, 1829, 1837, Democrat
-8, Martin, , Van Buren, 1837, 1841, Democrat
-9, William, Henry, Harrison, 1841, 1841, Whig
-10, John, , Tyler, 1841, 1845, Whig
-11, James, Knox, Polk, 1845, 1849, Democrat
-12, Zachary, , Taylor, 1849, 1850, Whig
-13, Millard, , Fillmore, 1850, 1853, Whig
-14, Franklin, , Pierce, 1853, 1857, Democrat
-15, James, , Buchanan, 1857, 1861, Democrat
-16, Abraham, , Lincoln, 1861, 1865, Republican
-17, Andrew, , Johnson, 1865, 1869, Democrat
-18, Ulysses, Simpson, Grant, 1869, 1877, Republican
-19, Rutherford, Birchard, Hayes, 1877, 1881, Republican
-20, James, Abram, Garfield, 1881, 1881, Republican
-21, Chester, Alan, Arthur, 1881, 1885, Republican
-22, Grover, , Cleveland, 1885, 1889, Democrat
-23, Benjamin, , Harrison, 1889, 1893, Republican
-24, Grover, , Cleveland, 1893, 1897, Democrat
-25, William, , McKinley, 1897, 1901, Republican
-26, Theodore, , Roosevelt, 1901, 1909, Republican
-27, William, Howard, Taft, 1909, 1913, Republican
-28, Woodrow, , Wilson, 1913, 1921, Democrat
-29, Warren, Gamaliel, Harding, 1921, 1923, Republican
-30, Calvin, , Coolidge, 1923, 1929, Republican
-31, Herbert, Clark, Hoover, 1929, 1933, Republican 
-32, Franklin, Delano, Roosevelt, 1933, 1945, Democrat
-33, Harry, S, Truman, 1945, 1953, Democrat
-34, Dwight, David, Eisenhower, 1953, 1961, Republican
-35, John, Fitzgerald, Kennedy, 1961, 1963, Democrat
-36, Lyndon, Baines, Johnson, 1963, 1969, Democrat
-37, Richard, Milhous, Nixon, 1969, 1974, Republican
-38, Gerald, Rudolph, Ford, 1974, 1977, Republican
-39, James, Earl, Carter, 1977, 1981, Democrat
-40, Ronald, Wilson, Reagan, 1981, 1989, Republican
-41, George, Herbert, Walker, Bush, 1989, 1993, Republican
-42, William, Jefferson, Clinton, 1993, 2001, Democrat
-43, George, Walker, Bush, 2001, 2009, Republican
-44, Barack, Hussein, Obama, 2009, 2016, Democrat
+1; George; ; Washington; 1789; 1797; Independent; https://upload.wikimedia.org/wikipedia/commons/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg; Our first president was also the wealthiest. Research from Wall Street 24/7 listed Washington as the wealthiest president of all time, with assets worth more than $500 million.
+2; John; ; Adams; 1797; 1801; Federalist; https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Official_Presidential_portrait_of_John_Adams_%28by_John_Trumbull%2C_circa_1792%29.jpg/1920px-Official_Presidential_portrait_of_John_Adams_%28by_John_Trumbull%2C_circa_1792%29.jpg; Adams died on the same day as his staunch rival, Thomas Jefferson. They both passed away on July 4, 1826.
+3; Thomas; ; Jefferson; 1801; 1809; Democratic Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg/1920px-Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg; Jefferson did a lot for our great nation, including inventing the swivel chair.
+4; James; ; Madison; 1809; 1817; Democratic Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/1920px-James_Madison.jpg; The best things come in small packages, right? Madison was only 5 feet 4 inches tall and weighed under 100 pounds.
+5; James; ; Monroe; 1817; 1825; Democratic Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/James_Monroe_White_House_portrait_1819.gif/1920px-James_Monroe_White_House_portrait_1819.gif; The capital of Liberia, Monrovia, was named after Monroe after he worked with the American Colonization Society to help create a state where freed slaves could live.                                                            
+6; John; Quincy; Adams; 1825; 1829; Democratic Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/John_Q._Adams-edit.jpg/1280px-John_Q._Adams-edit.jpg; Adams was a fan of the early morning skinny dip-session during his presidency.
+7; Andrew; ; Jackson; 1829; 1837; Democrat; https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Andrew_Jackson_Daguerrotype-crop.jpg/1920px-Andrew_Jackson_Daguerrotype-crop.jpg; Jackson taught his parrot how to curse to the extent that the parrot had to be removed from the president's funeral because it was cursing too much. That's one way to leave a legacy.
+8; Martin; ; Van Buren; 1837; 1841; Democrat; https://upload.wikimedia.org/wikipedia/commons/9/94/Martin_Van_Buren_edit.jpg; Van Buren was raised in Kinderhook, N.Y., and his nickname was "Old Kinderhook." A popular hypothesis is that the colloquial saying OK stems from the OK clubs that began in support of his election campaign.
+9; William; Henry; Harrison; 1841; 1841; Whig; https://upload.wikimedia.org/wikipedia/commons/c/c5/William_Henry_Harrison_daguerreotype_edit.jpg; Harrison had a pet billy goat at the White House.
+10; John; ; Tyler; 1841; 1845; Whig; https://upload.wikimedia.org/wikipedia/commons/2/2f/Tyler_Daguerreotype_crop_%28restoration%29.jpg; It looks like at the time of his death, Tyler was quite unpopular. His 1862 New York Time's obituary stated Tyler was "the most unpopular public man that had ever held any office in the United States."
+11; James; Knox; Polk; 1845; 1849; Democrat; https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/JKP.tif/lossy-page1-1280px-JKP.tif.jpg; Ever the underdog, Polk was America's first dark horse presidential candidate.
+12; Zachary; ; Taylor; 1849; 1850; Whig; https://upload.wikimedia.org/wikipedia/commons/a/a6/Zachary_Taylor_restored_and_cropped.png; What exactly was Taylor's legacy? We're not exactly sure. But we do know that his sudden death had something to do with eating cherries and milk.
+13; Millard; ; Fillmore; 1850; 1853; Whig; https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Millard_Fillmore_by_Brady_Studio_1855-65-crop.jpg/1280px-Millard_Fillmore_by_Brady_Studio_1855-65-crop.jpg; Looks like teenage dreams really do come true. Fillmore's first wife was actually his teacher when he was a 19-year-old schoolboy at New Home Academy.
+14; Franklin; ; Pierce; 1853; 1857; Democrat; https://upload.wikimedia.org/wikipedia/en/7/76/Pierce_crop.jpg; Pierce was taken in for running over an old woman with his horse. The charges were later dropped due to lack of evidence.
+15; James; ; Buchanan; 1857; 1861; Democrat; https://upload.wikimedia.org/wikipedia/commons/6/62/Hon._James_Buchanan_-_NARA_-_528318-crop.jpg; Buchanan was the only president never to marry.
+16; Abraham; ; Lincoln; 1861; 1865; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Abraham_Lincoln_head_on_shoulders_photo_portrait.jpg/1920px-Abraham_Lincoln_head_on_shoulders_photo_portrait.jpg; Good old Abe apparently knew had to handle himself in the ring. As a young wrestler, Lincoln was defeated only once out of approximately 300 matches.
+17; Andrew; ; Johnson; 1865; 1869; Democrat; https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg/1920px-Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg; Johnson was noticeably drunk during the inauguration ceremony after drinking too much whiskey beforehand.
+18; Ulysses; Simpson; Grant; 1869; 1877; Republican; https://upload.wikimedia.org/wikipedia/commons/5/5c/Ulysses_S._Grant_1870-1880.jpg; Grant could whip up quite the prose. His autobiography is considered to be the best-written presidential autobiography.
+19; Rutherford; Birchard; Hayes; 1877; 1881; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg/1920px-President_Rutherford_Hayes_1870_-_1880_Restored.jpg; The Hayes family spent every night at the White House singing gospel hymns.
+20; James; Abram; Garfield; 1881; 1881; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/1920px-James_Abram_Garfield%2C_photo_portrait_seated.jpg; Garfield was ambidextrous and could write Latin with one hand and Greek with other at the same time.
+21; Chester; Alan; Arthur; 1881; 1885; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chester_Alan_Arthur.jpg/1920px-Chester_Alan_Arthur.jpg; Arthur owned 80 pairs of pants and was known for taking late night strolls around D.C. with his friends and sauntering back at three in the morning.
+22; Grover; ; Cleveland; 1885; 1889; Democrat; https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/1920px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg; Cleveland's real first name was Stephen but he switched to Grover as an adult. Grover does have a certain edge to it.
+23; Benjamin; ; Harrison; 1889; 1893; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg/1920px-Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg; Harrison was the first president to have electricity in the White House but was so terrified of getting electrocuted that he would never turn on the switches himself.
+24; Grover; ; Cleveland; 1893; 1897; Democrat; https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/1920px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg; Cleveland was named Fitness Magazine's least-healthiest President due to the fact that he loved drinking beer, cigar smoking and weighed 250 pounds.
+25; William; ; McKinley; 1897; 1901; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mckinley.jpg/1920px-Mckinley.jpg; McKinley wore a red carnation on his lapel almost all the time for good luck. One time in 1901, he gave his carnation to a little girl and was instantly shot by an assassin immediately after. He died eight days later.
+26; Theodore; ; Roosevelt; 1901; 1909; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/President_Roosevelt_-_Pach_Bros.tif/lossy-page1-1280px-President_Roosevelt_-_Pach_Bros.tif.jpg; Once while delivering a speech in Milwaukee, Roosevelt was shot in an assassination attempt. "I don't know whether you fully understand that I have just been shot, " he told the stunned audience. "I give you my word; I do not care a rap about being shot, not a rap." He went on to finish the hour and a half speech with a bullet lodged in his chest.
+27; William; Howard; Taft; 1909; 1913; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/William_Howard_Taft%2C_head-and-shoulders_portrait%2C_facing_front.tif/lossy-page1-1920px-William_Howard_Taft%2C_head-and-shoulders_portrait%2C_facing_front.tif.jpg; The largest president in American history, Taft got himself stuck in the White House bathtub and had to call help to get himself out.
+28; Woodrow; ; Wilson; 1913; 1921; Democrat; https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg/1280px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg; Despite the fact that he didn't learn to read until he was 10 years old, Wilson is America's most educated president. He is the only president to have earned a Ph.D., which he earned from John Hopkins University in political science and history.
+29; Warren; Gamaliel; Harding; 1921; 1923; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Warren_G_Harding-Harris_%26_Ewing.jpg/1280px-Warren_G_Harding-Harris_%26_Ewing.jpg; In a poker game gone wrong, Harding lost the White House's china collection.
+30; Calvin; ; Coolidge; 1923; 1929; Republican; https://upload.wikimedia.org/wikipedia/commons/3/37/Calvin_Coolidge%2C_bw_head_and_shoulders_photo_portrait_seated%2C_1919.jpg; During his presidency, Coolidge woke up in a hotel room to find a burglar going through his things. Coolidge struck up a conversation with the man and found out he was a student who needed money to pay for college. Coolidge asked the man to hand him his wallet and gave him the $32 that was in in there and told the student it was a loan. He then instructed the student to leave the way he came to avoid being caught by the Secret Service.
+31; Herbert; Clark; Hoover; 1929; 1933; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/President_Hoover_portrait.tif/lossy-page1-1087px-President_Hoover_portrait.tif.jpg; Hoover's son had two pet alligators that were permitted to run around throughout the White House.
+32; Franklin; Delano; Roosevelt; 1933; 1945; Democrat; https://upload.wikimedia.org/wikipedia/commons/3/39/TRUMAN_58-766-06_CROPPED.jpg; Roosevelt probably wore dresses until the age of six or seven.
+33; Harry; S; Truman; 1945; 1953; Democrat; https://upload.wikimedia.org/wikipedia/commons/3/39/TRUMAN_58-766-06_CROPPED.jpg; The "S" in Truman's name did not stand for anything because his parents couldn't agree on a middle name for over a month.
+34; Dwight; David; Eisenhower; 1953; 1961; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/President_Eisenhower_Portrait_1959.tif/lossy-page1-1920px-President_Eisenhower_Portrait_1959.tif.jpg; Eisenhower painted over 250 known pieces of art.
+35; John; Fitzgerald; Kennedy; 1961; 1963; Democrat; https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg; In 1957, Kennedy was awarded a Pulitzer Prize in biography.
+36; Lyndon; Baines; Johnson; 1963; 1969; Democrat; https://upload.wikimedia.org/wikipedia/commons/c/c3/37_Lyndon_Johnson_3x4.jpg; Johnson had so many extramarital affairs during his presidency that his aides referred to the girls he had affairs with as his harem.
+37; Richard; Milhous; Nixon; 1969; 1974; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.tif/lossy-page1-1920px-Richard_M._Nixon%2C_ca._1935_-_1982_-_NARA_-_530679.tif.jpg; While in the Navy, Nixon realized that his friends were winning money at poker games. Wanting to get in on the action, Nixon had someone teach him poker and within a few months he won around $6,000. He used that money to fund his first congressional campaign.
+38; Gerald; Rudolph; Ford; 1974; 1977; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Gerald_Ford_-_NARA_-_530680.tif/lossy-page1-1920px-Gerald_Ford_-_NARA_-_530680.tif.jpg; Ford worked as a fashion model during college and appeared on the cover of Cosmopolitan. He also could have played for the NFL.
+39; James; Earl; Carter; 1977; 1981; Democrat; https://upload.wikimedia.org/wikipedia/commons/5/5a/JimmyCarterPortrait2.jpg; In 1973, Carter filed a report for a UFO sighting.
+40; Ronald; Wilson; Reagan; 1981; 1989; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/1920px-Official_Portrait_of_President_Reagan_1981.jpg; In 1954, due to his acting career taking a turn for the worst, Regan did a stand-up gig in Las Vegas for a few weeks.
+41; George; Herbert Walker; Bush; 1989; 1993; Republican; https://upload.wikimedia.org/wikipedia/commons/f/ff/George_H._W._Bush%2C_President_of_the_United_States%2C_1989_official_portrait_cropped.jpg; In high school Bush was captain of his varsity baseball and soccer team and also played basketball.
+42; William; Jefferson; Clinton; 1993; 2001; Democrat; https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/1920px-Bill_Clinton.jpg; Clinton's facial symmetry is ranked alongside male models.
+43; George; Walker; Bush; 2001; 2009; Republican; https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/1920px-George-W-Bush.jpeg; Bush was the head cheerleader during his senior year at boarding school.
+44; Barack; Hussein; Obama; 2009; 2016; Democrat; https://upload.wikimedia.org/wikipedia/commons/c/c4/President_Barack_Obama_%28cropped%29.jpg; Obama is a huge collector of comics, particularly Spider-Man.
+45; Trump; Vladimir; Donald; 2017; 201?; Communist; https://upload.wikimedia.org/wikipedia/commons/0/0e/Donald_Trump_Pentagon_2017.jpg; Applies 'covfefe' to his daily "presidential decision-making".  To this day, the public is still trying to determine what that is...?
