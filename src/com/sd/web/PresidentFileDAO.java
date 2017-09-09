@@ -33,7 +33,7 @@ public class PresidentFileDAO implements PresidentDAO {
         try (BufferedReader buf = new BufferedReader(new InputStreamReader(is))) {
             String line;
             while ((line = buf.readLine()) != null) {
-            	String[] col = line.split(", ");
+            	String[] col = line.split("; ");
 
 				String term = col[0];
 				String fName = col[1];
@@ -44,8 +44,10 @@ public class PresidentFileDAO implements PresidentDAO {
 				String termEndStr = col[5]; // Date term ended.
 
 				String party = col[6];
+				String image = col[7];
+				String fact = col[8];
 
-				President pres = new President(term, termBeginStr, termEndStr, fName, mName, lName, party);
+				President pres = new President(term, termBeginStr, termEndStr, fName, mName, lName, party, image, fact);
 				presList.add(pres);
             }
         } catch (Exception e) {
@@ -99,4 +101,15 @@ public class PresidentFileDAO implements PresidentDAO {
 	public List<President> getPresList() {
 		return presList;
 	}
+
+	@Override
+	public String getImage(President p) {
+		return p.getImage();
+	}
+
+	@Override
+	public String getFact(President p) {
+		return p.getFact();
+	}
+	
 }

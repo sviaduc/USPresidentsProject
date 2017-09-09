@@ -10,7 +10,7 @@
 <c:choose>
 	<c:when test="${currentPres.termNum == numPres}">
 		#nextButton {
-			display: none;
+			visibility: hidden;
 		}
 	</c:when>
 	<c:otherwise>
@@ -22,7 +22,7 @@
 <c:choose>
 	<c:when test="${currentPres.termNum == 1}">
 		#previousButton {
-			display: none;
+			visibility: hidden;
 		}
 	</c:when>
 	<c:otherwise>
@@ -42,6 +42,7 @@
 
 <div class="main">
 <h1>${currentPres.fName} ${currentPres.lName}</h1>
+<img src="${currentPres.image }" />
 <h3>${currentPres.party}</h3>
 <h4> ${currentPres.startYear} -  ${currentPres.endYear}</h4>
 
@@ -55,6 +56,9 @@
 
 <input id="nextButton" type="submit" name="next" value="Next">
 </form>
+<hr>
+<p>${currentPres.fact}</p>
+
 </div>
 		
 </body>
