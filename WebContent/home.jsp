@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+home.jsp page showing
 </body>
 </html>
