@@ -8,5 +8,16 @@
     <welcome-file>default.html</welcome-file>
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
+    <welcome-file>home.jsp</welcome-file>
   </welcome-file-list>
+  
+  	<servlet>
+		<servlet-name>PresServlet</servlet-name>
+		<servlet-class>com.sd.web</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>PresServlet</servlet-name>
+		<url-pattern>*.do</url-pattern>
+	</servlet-mapping>
 </web-app>
