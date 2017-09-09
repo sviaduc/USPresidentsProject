@@ -11,10 +11,10 @@
 <body>
 <h1>New !!!@home page</h1>
 	<form action="pres.do" method="GET">
-	<p>${presidents}</p>
-		<%-- <c:forEach var="presidents" items="${presidents}">
-			       value="${presidents.fName}"/>${presidents.fName}<br/>
-		</c:forEach> --%>
+	<%-- p>${presidents}</p> --%>
+		<c:forEach var="presidents" items="${presidents}">
+			       ${presidents.fName}<br/>
+		</c:forEach>
 		</form>
 </body>
 </html>

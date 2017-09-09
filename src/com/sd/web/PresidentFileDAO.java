@@ -14,8 +14,8 @@ import javax.servlet.ServletContext;
 import com.sd.data.President;
 
 public class PresidentFileDAO implements PresidentDAO {
-//	private static final String filename = "WEB-INF/presidents.csv";
-	private static final String filename = "WEB-INF/Simple.csv";
+	private static final String filename = "WEB-INF/presidents.csv";
+//	private static final String filename = "WEB-INF/Simple.csv";
     private ServletContext servletContext;
     private List<President> presList;
     

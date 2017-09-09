@@ -19,6 +19,7 @@ public class PresServlet extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		req.setAttribute("presidents", presidentDAO.getPresList());
+		req.setAttribute("term", presidentDAO.getTermNum(presidentDAO.getPresList().get(0)));
 		req.getRequestDispatcher("/home.jsp").forward(req, resp);
 	}
 
