@@ -7,7 +7,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-//@WebServlet("/home")
 public class PresServlet extends HttpServlet {
 	private PresidentDAO presidentDAO;
 	
@@ -19,13 +18,16 @@ public class PresServlet extends HttpServlet {
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 		req.setAttribute("presidents", presidentDAO.getPresList());
-		req.setAttribute("term", presidentDAO.getTermNum(presidentDAO.getPresList().get(0)));
+		req.setAttribute("currentPres", presidentDAO.getPresList().get(0));
 		req.getRequestDispatcher("/home.jsp").forward(req, resp);
 	}
 
-//	@Override
-//	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-//		
-//	}
+	@Override
+	protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+		String next =req.getParameter("10");
+		int presToGet = Integer.parseInt(next);
+		req.setAttribute("currentPres", presidentDAO.getPresList().get(presToGet));
+		req.getRequestDispatcher("/home.jsp").forward(req, resp);
+	}
 
 }
