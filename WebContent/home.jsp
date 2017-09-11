@@ -5,6 +5,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
+<link rel = "icon" type = "favicon" href = "https://cdn1.iconfinder.com/data/icons/rounded-flat-country-flag-collection-1/2000/us-01.png">
 <link rel = "stylesheet" type = "text/css" href = "css/styles.css" />
 <style>
 <c:choose>
@@ -42,7 +43,7 @@
 <br><br><br><br><br><br>
 <div class="main">
 <h1>${currentPres.fName} ${currentPres.midName} ${currentPres.lName}</h1>
-<img class="presImage" src="${currentPres.image }" />
+<img class="presImage image-blurred-edge" src="${currentPres.image }" />
 <h3>${currentPres.party}</h3>
 <h4> ${currentPres.startYear} -  ${currentPres.endYear}</h4>
 
